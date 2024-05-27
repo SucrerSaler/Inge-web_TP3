@@ -1,0 +1,28 @@
+.circle {
+    position: absolute;
+    background-color: salmon;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    top: 300px;
+    z-index: 2;
+}
+
+.square {
+position: absolute;
+background-color: darkslategray;
+height: 80px;
+width: 80px;
+top: 300px;
+}
+
+.yellow {
+background-color: #ff0;
+border: 1px solid #000;
+}
+
+.blue {
+background-color: #00f;
+color: #fff;
+border: 1px solid #000;
+}
